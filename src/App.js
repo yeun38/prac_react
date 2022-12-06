@@ -1,5 +1,11 @@
+import Info from "./8-hooks/Info";
+
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Info />
+    </div>
+  );
 }
 
 export default App;
