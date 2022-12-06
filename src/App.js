@@ -1,9 +1,10 @@
-import Info from "./8-hooks/Info";
+// import Info from "./8-hooks/Info";
+import Average from "./8-hooks/Average";
 
 function App() {
   return (
     <div>
-      <Info />
+      <Average />
     </div>
   );
 }
